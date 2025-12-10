@@ -108,6 +108,7 @@ Random Forest produced the best results with an F1 Score of 99.49%.
 ---
 
 ## Recommended Folder Structure
+
 project/
 │── data/
 │── notebooks/
